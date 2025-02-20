@@ -25,8 +25,8 @@ To run this project locally, follow these steps:
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone [https://github.com/avi17032004/Shopping-Cart.git]
+cd Shopping-Cart
 ```
 
 ### 2️⃣ **Install Dependencies**  
